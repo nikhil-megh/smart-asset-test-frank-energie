@@ -1,4 +1,4 @@
-# smart-assert-test-Frank
+# smart-assert-test-frank-energie
 
 Run tests with `./gradlew clean test`
 
